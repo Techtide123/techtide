@@ -8,8 +8,29 @@
 
 
 <url>
-  <loc>https://techtide.infinityfreeapp.com/</loc>
-  <lastmod>2024-07-05T16:15:06+00:00</lastmod>
+  <loc>https://www.thetechtide.site/</loc>
+  <lastmod>2025-04-21T06:05:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.thetechtide.site/about.html</loc>
+  <lastmod>2025-04-21T06:05:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thetechtide.site/contact.html</loc>
+  <lastmod>2025-04-21T06:05:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thetechtide.site/service.html</loc>
+  <lastmod>2025-04-21T06:05:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.thetechtide.site/index.html</loc>
+  <lastmod>2025-04-21T06:05:20+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
