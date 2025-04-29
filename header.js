@@ -16,7 +16,7 @@ document.write(
                 <a href="index.html" class="nav-item nav-link active">Home</a>
                 <a href="about.html" class="nav-item nav-link">About</a>
                 <a href="service.html" class="nav-item nav-link">Services</a>
-                <a href="project.html" class="nav-item nav-link">Projects</a>
+              
                 <a href="team.html" class="nav-item nav-link">Our Team</a>
           
                 <a href="contact.html" class="nav-item nav-link">Contact</a>
