@@ -35,22 +35,22 @@ Odisha,India</p>
                         <p class="section-title text-white h5 mb-4">Projects<span></span></p>
                         <div class="row g-2">
                             <div class="col-4">
-                                <img class="img-fluid" src="pro-11.jpeg" alt="TechTide Image" style="height:66px;">
+                                <img class="img-fluid" src="pro-11.jpeg" alt="Tech Tide" style="height:66px;">
                             </div>
                             <div class="col-4">
-                                <img class="img-fluid" src="pro-1.jpeg" alt="TechTide Image" style="height:66px;">
+                                <img class="img-fluid" src="pro-1.jpeg" alt="Tech Tide" style="height:66px;">
                             </div>
                             <div class="col-4">
-                                <img class="img-fluid" src="pro-6.jpeg" alt="TechTide Image" style="height:66px;">
+                                <img class="img-fluid" src="pro-6.jpeg" alt="Tech Tide" style="height:66px;">
                             </div>
                             <div class="col-4">
-                                <img class="img-fluid" src="pro-2.jpeg" alt="TechTide Image" style="height:66px;">
+                                <img class="img-fluid" src="pro-2.jpeg" alt="Tech Tide" style="height:66px;">
                             </div>
                             <div class="col-4">
-                                <img class="img-fluid" src="pro-4.jpeg" alt="TechTide Image" style="height:66px;">
+                                <img class="img-fluid" src="pro-4.jpeg" alt="Tech Tide" style="height:66px;">
                             </div>
                             <div class="col-4">
-                                <img class="img-fluid" src="pro-13.png" alt="TechTide Image" style="height:66px;">
+                                <img class="img-fluid" src="pro-13.png" alt="Tech Tide" style="height:66px;">
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@ Odisha,India</p>
                                 <a href="#team">Team</a>
                                 <a href="#services">Services</a> -->
 
-                                <img src="logos.jpeg" alt="tech tide logo" style="width:20%" >
+                                <img src="logos.jpeg" alt="tech tide " style="width:20%" >
                             </div>
                         </div>
                     </div>
