@@ -13,7 +13,7 @@ document.write(`
 Khandagiri, Bhubaneswar - 751019
 
 Odisha,India</p>
-                        <p><i class="fa fa-phone-alt me-3"> <a href="tel:7205121943" style="color:white;"> +917205121943</a></i></p>
+                        <p><i class="fa fa-phone-alt me-3"> <a href="tel:7978351140" style="color:white;"> +917978351140</a></i></p>
                         <p><i class="fa fa-envelope me-3"> <a href="mailto:techtide.techtide@gmail.com" style="color:white;">techtide.techtide@gmail.com</a></i></p>
                         <p><i class="fa fa-envelope me-3"> <a href="mailto:supports@thetechtide.site" style="color:white;">supports@thetechtide.site</a></i></p>
                         <div class="d-flex pt-2">
